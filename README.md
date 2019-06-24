@@ -22,7 +22,7 @@ Alternatively, the Release version of the libraris are located ar `Release` fold
 For sample of usages, please refer to `MinimalExecutionTest`. Some very basic call looks as below:
 
 
-```
+```csharp
 var outputLines = new List<string>();
 
 var parameters = new Dictionary<string, string>
