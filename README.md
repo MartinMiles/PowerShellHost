@@ -15,7 +15,8 @@ It supports an objective nature of PowerShell and allows you to intercept not ju
 
 ### Usage
 
-Release version of the libraris are located ar `Release` folder, compiled with .NET Framework 4.7.
+Once GitHub Package Registry becomes publically available, this library will be shipped throught it for simplicity.
+Alternatively, the Release version of the libraris are located ar `Release` folder, compiled with .NET Framework 4.7.
 
 
 For sample of usages, please refer to `MinimalExecutionTest`. Some very basic call looks as below:
